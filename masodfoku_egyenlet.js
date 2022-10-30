@@ -13,3 +13,5 @@ function qe_formula(a , b, c) {
 }
 
 console.log(qe_formula(12, -3, 35));
+console.log(qe_formula(-1, 14, -49));
+console.log(qe_formula(12, -41, 35));
